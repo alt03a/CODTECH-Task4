@@ -30,3 +30,5 @@ Recommendation Logic: The system takes a specific movie (e.g., "Inception") as i
 Results The system successfully identified relationships between items. for example, in the synthetic data, users who rated "Inception" highly also tended to rate "Matrix" highly. Consequently, when the system was queried with "Inception," it recommended "Matrix." This demonstrates how collaborative filtering can uncover hidden patterns in user behavior to provide personalized experiences without needing to understand the content of the items themselves.
 
 #OUTPUT
+
+![Image](https://github.com/user-attachments/assets/dea8bab8-261e-41d1-a257-d322c1921d6a)
